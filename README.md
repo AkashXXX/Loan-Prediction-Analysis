@@ -4,14 +4,14 @@ A predictive modeling project to determine the likelihood of loan approval based
 
 ## Features:
 
-() Data cleaning and preprocessing
-() Exploratory data analysis
-() Model building and evaluation
-() Prediction of loan approval status
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* Model building and evaluation
+* Prediction of loan approval status
 
 ## Technologies Used:
 
-() Python
-() Pandas
-() Scikit-learn
-() Matplotlib,Seaborn
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib,Seaborn
